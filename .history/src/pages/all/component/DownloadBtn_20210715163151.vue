@@ -1,6 +1,6 @@
 <template>
     <button @click="setValue">
-        这是植入到页面的按钮1
+        这是植入到页面的按钮
     </button>
 </template>
 <script>
